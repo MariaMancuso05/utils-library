@@ -1,3 +1,3 @@
 def reverse_string(s):
-'''Reverse a string'''
-return s[::-1]
+    '''Reverse a string'''
+    return s[::-1]
